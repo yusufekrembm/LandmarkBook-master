@@ -1,5 +1,5 @@
 # 5-LandmarkBook-master
-Android Projects Course Materials
+Android Projects Course 
 
 - Simple landmark book app for your world tour
 
